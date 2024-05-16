@@ -519,6 +519,9 @@ body {
   }
   
   .section-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: #2e2f42;
     padding: 96px 0;
   }
